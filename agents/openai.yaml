@@ -1,0 +1,7 @@
+interface:
+  display_name: "World Cup 2026 Daily Prediction"
+  short_description: "Cited daily World Cup match forecasts"
+  default_prompt: "Use $world-cup-2026-daily-prediction to research upcoming FIFA World Cup 2026 matches and produce a cited prediction brief."
+
+policy:
+  allow_implicit_invocation: true
